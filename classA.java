@@ -10,6 +10,12 @@ class A {
   System.out.println("Branch Code B created");
   }
   
+  
+  Public void displayOn Folk Branch(){
+  System.out.println("Folk Branch");
+  }
+
+  
   public static void main (String args[]){
     
     System.out.println("Suresh");
