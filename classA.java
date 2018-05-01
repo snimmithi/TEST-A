@@ -16,6 +16,11 @@ class A {
   }
 
   
+   Public void displayONIssue(){
+  System.out.println("Issue");
+  }
+
+  
   public static void main (String args[]){
     
     System.out.println("Suresh");
