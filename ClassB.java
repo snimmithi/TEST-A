@@ -1,0 +1,4 @@
+Class B{
+  PSV MAIN(){
+  }
+}
